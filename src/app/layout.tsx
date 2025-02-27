@@ -24,7 +24,7 @@ const description = `I am a Fullstack Software Engineer currently based in Kigal
           and Software Engineering. In my professional journey, I have excelled in
           crafting seamless and responsive user interfaces, leveraging my expertise
           in front-end technologies such as Angular, React and Vue.js. These
-          frameworks have been pivotal in delivering engaging and user-friendly`
+          frameworks/libraries have been pivotal in delivering engaging and user-friendly`
 
 export const metadata: Metadata = {
   title: "Daniel Nsanzumuhire - Software engineer",
