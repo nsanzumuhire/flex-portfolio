@@ -1,0 +1,304 @@
+{
+  "name": "NSANZUMUHIRE DANIEL",
+  "title": "FULL STACK SOFTWARE ENGINEER",
+  "location": "KIGALI, RWANDA",
+  "phone": "0784226895",
+  "details": {
+    "address": "Kigali, Rwanda",
+    "phone": "0784226895",
+    "email": "nsanzudaniel59@gmail.com"
+  },
+  "links": {
+    "website": "https://nsanzumuhire.com",
+    "linkedin": "LinkedIn"
+  },
+  "skills": {
+    "backend": [
+      "SpringBoot",
+      "ExpressJS",
+      "NestJS",
+      "Laravel",
+      "REST API",
+      "REST APIs",
+      "CRM Integrations",
+      "GraphQL",
+      "gRPC"
+    ],
+    "frontend": [
+      "Angular",
+      "React",
+      "Redux/vuex",
+      "Next.js",
+      "VueJS",
+      "Vite",
+      "Flutter",
+      "React-Native",
+      "Bootstrap",
+      "Tailwind",
+      "Shaden-ui",
+      "Bulma",
+      "Webpack",
+      "Grunt/Gulp",
+      "HTML"
+    ],
+    "database": [
+      "MariaDB/PostgreSQL",
+      "MongoDB",
+      "Miracle",
+      "Redis",
+      "GraphDB/Neo4J",
+      "Apache Hive"
+    ],
+    "tools": [
+      "Docker",
+      "AWS",
+      "Nginx",
+      "RabbitMQ",
+      "Prometheus",
+      "Grafana",
+      "Metabase",
+      "Apache superset",
+      "ElasticSearch",
+      "CI/CD",
+      "Jira",
+      "GigaSpace"
+    ],
+    "ai": [
+      "LLMs Integration",
+      "Agentic Workflows",
+      "n8n"
+    ],
+    "programming": [
+      "Java",
+      "JavaScript",
+      "TypeScript",
+      "SQL",
+      "NodeJS", 
+      "PHP", 
+      "Dart"
+    ]
+  },
+  "languages": [
+    "Kinyarwanda",
+    "English"
+  ],
+  "profile": "Experienced full-stack engineer based in Kigali, Rwanda, with 9+ years delivering scalable web, mobile, and desktop applications across government, fintech, and enterprise domains. Specialized in frontend architecture, backend systems, and AI-powered automation using LLMs and agentic workflows. Proven track record in leading cross-functional teams and building secure, user-centric digital solutions.",
+  "employment_history": [
+    {
+      "company": "Various Organizations",
+      "location": "Kigali",
+      "title": "Seasonal Software Engineer (Consultant)",
+      "date": "January 2021 — Present",
+      "description": "Provided technical leadership in the design and development of large-scale digital platforms supporting national priorities in social protection, public service delivery, and international diplomacy. Led frontend and backend engineering efforts on mission-critical systems, ensuring performance, usability, and scalability. Collaborated with cross-functional teams to translate complex requirements into robust digital solutions. Contributed to e-government infrastructure modernization, including systems for civil registration, digital identity, and citizen engagement platforms.",
+      "projects": [
+        {
+          "name": "Rwanda Social Registry System (SR-IS)",
+          "role": "Front-end Engineer",
+          "description": "Served as Front-end Engineer for a national platform consolidating household socio-economic data to assess eligibility for social protection programs. Designed and implemented an intuitive, accessible user interface used by government agencies to support over 900,000 vulnerable households. Collaborated closely with backend and data teams to ensure seamless integration, performance, and real-time updates.",
+          "access": "Public"
+        },
+        {
+          "name": "CHOGM 2022 Official App",
+          "role": "Backend Developer & Frontend Support",
+          "description": "Led backend development and provided frontend support for the official app of the Commonwealth Heads of Government Meeting held in Kigali. Engineered secure APIs, data management layers, and event synchronization features. Supported a high-traffic, multilingual app used by heads of state, delegates, and event organizers for real-time updates, logistics, and communication during the summit.",
+          "access": "Public"
+        },
+        {
+          "name": "Never Again Rwanda (2025 Redesign)",
+          "role": "Full Stack Engineer",
+          "description": "Worked as a Full Stack Engineer on the 2025 redesign of the Never Again Rwanda platform—a national peacebuilding and human rights organization. Led the implementation of the redesigned web platform, transforming Figma designs into accessible and performant interfaces. Collaborated closely with the UI/UX design team to ensure design fidelity and responsiveness across devices. On the backend, integrated Strapi-based CMS functionalities to support real-time content updates, multilingual content management, and media asset handling. Delivered a robust, secure API architecture using Node.js, enabling a scalable and maintainable experience for both administrators and end users.",
+          "access": "https://neveragainrwanda.org/en"
+        }
+      ]
+    },
+    {
+      "company": "Dokuma Digital LTD (Former AEGIS Consult)",
+      "location": "Kigali",
+      "title": "Senior Frontend Software Engineer",
+      "date": "January 2025 — Present",
+      "description": "Lead frontend architecture and development across multiple micro-frontends, serving as the technical lead for complex, large-scale UI systems. Architect scalable, modular frontend solutions using NX workspace with Angular, applying modern state management patterns to ensure maintainability and performance. Establish frontend best practices, build reusable component libraries along with Storybook documentation, and implement CI/CD pipelines via GitHub Actions. Mentor junior developers, fostering improvements in code quality and team efficiency. Deliver accessible, high-performance applications with advanced state handling and seamless user experiences.",
+      "projects": [
+        {
+          "name": "REPZ",
+          "role": "Frontend Lead",
+          "description": "Leading the redesign and implementation of Zimbabwe’s national real estate platform. The project focuses on enhancing property discovery and user interaction across residential and commercial sectors, as part of a broader digital modernization initiative.",
+          "access": "Private"
+        },
+        {
+          "name": "DEEDS",
+          "role": "Frontend Lead",
+          "description": "Designing and developing the user interface for Zimbabwe’s land administration system, supporting land registration, ownership history, bonds, caveats, and parcel merging. The system is currently under phased implementation and supports secure, digital land governance.",
+          "access": "Private"
+        }
+      ]
+    },
+    {
+      "company": "Eccellenza LTD",
+      "location": "Kigali",
+      "title": "Senior Frontend Software Engineer",
+      "date": "January 2021 — January 2023",
+      "description": "Led the development of mission-critical applications under Rwanda’s Integrated Real Property Valuation (IRPV) initiative, aimed at digitizing property valuation and enhancing transparency in the real estate and land sectors. Guided the team in delivering scalable, reliable digital solutions that improved public service delivery and operational efficiency. Personally implemented the entire user interface and developed native Android and iOS applications, ensuring a consistent and accessible experience across all platforms.",
+      "projects": [
+        {
+          "name": "IRPV (IGENAGACIRO)",
+          "role": "End-to-end Developer",
+          "description": "End-to-end development of mobile and web applications supporting property inspection, valuation submission, administrative workflows, and citizen-facing services. Focused on frontend architecture and cross-platform mobile development to enable smooth nationwide deployment.",
+          "access": "https://igenagaciro.irpv.rw/"
+        }
+      ]
+    },
+    {
+      "company": "QT SOFTWARE LTD",
+      "location": "Kigali",
+      "title": "Senior Software Engineer (Consultant)",
+      "date": "January 2021 — January 2023",
+      "description": "Led the engineering efforts for the development and deployment of the Government Enterprise Service Bus (GESB), a foundational integration layer within Rwanda’s Digital Government Platform. Focused on backend system architecture and development to enable secure, scalable, and standardized data exchange across public and private institutions. Collaborated closely with the Rwanda Information Society Authority (RISA) to ensure alignment with national enterprise architecture standards and successful system adoption.",
+      "projects": [
+        {
+          "name": "GESB Phase 1",
+          "role": "Senior Backend Lead",
+          "description": "Oversaw the design and implementation of core service orchestration, messaging, and routing components for GESB. Led the backend team and mentored junior developers, ensuring robust integration between critical government systems.",
+          "access": "Public"
+        },
+        {
+          "name": "GESB Phase 2",
+          "role": "Senior Fullstack Engineer",
+          "description": "Contributed to both frontend and backend development to enhance the platform’s functionality and user experience. Focused on improving usability, optimizing system performance, and delivering comprehensive technical and API documentation through an integrated developer portal to facilitate effective handover to government teams and institutional stakeholders.",
+          "access": "Public"
+        }
+      ]
+    },
+    {
+      "company": "Codeland S.r.l.",
+      "location": "Kigali",
+      "title": "Frontend Developer",
+      "date": "January 2021 — January 2023",
+      "description": "Worked as part of large, cross-functional teams distributed across regions, contributing as a front-end engineer to the development and maintenance of high-visibility web applications for luxury fashion and design brands. Leveraged Adobe AEM to deliver responsive, performance-optimized, and visually consistent user interfaces. Focused on building modular components that supported high levels of content dynamicity, enabling marketing and editorial teams to manage and update content independently. Collaborated with designers, backend engineers, and content teams to ensure seamless integration and brand fidelity across platforms. Notable contributions include projects for PRADA and Martinelli Ginetto.",
+      "projects": [
+        {
+          "name": "PRADA",
+          "role": "Frontend Engineer",
+          "description": "Developed and maintained components for PRADA’s global fashion website. Focused on responsive design, cross-browser compatibility, and dynamic content rendering through Adobe AEM’s component-driven architecture.",
+          "access": "https://www.prada.com"
+        },
+        {
+          "name": "Martinelli Ginetto",
+          "role": "Frontend Engineer",
+          "description": "Built UI components for the corporate platform of Martinelli Ginetto Group, a leader in high-end textile manufacturing. Emphasized modularity and dynamic content flexibility to support evolving business and editorial needs.",
+          "access": "https://www.martinelliginettogroup.it/en/home.html"
+        }
+      ]
+    },
+    {
+      "company": "IREMBO",
+      "location": "Kigali",
+      "title": "Software Engineer (Full-time)",
+      "date": "January 2018 — January 2023",
+      "description": "Served as a founding frontend engineer on the Irembo 2.0 project, a major national initiative to modernize Rwanda’s digital public services platform. Played a key role in the migration from Irembo 1.0, redesigning and rebuilding user-facing components to improve performance, accessibility, and usability. Architected scalable, reusable UI modules to support over 100 public services across sectors, ensuring compliance with responsive and accessible design standards. The upgrade significantly enhanced service delivery for millions of citizens by reducing load times, improving navigation, and enabling mobile-first access to essential government services.",
+      "projects": [
+        {
+          "name": "IremboGov",
+          "role": "Frontend Engineer",
+          "description": "Contributed to the development of Rwanda’s flagship e-Government portal, which enables online access to services such as civil registration, immigration, driving permits, and land services. Implemented modular, performance-optimized components with a focus on dynamic form rendering, multilingual support, and seamless user flows for both citizens and administrators.",
+          "access": "https://irembo.gov.rw/"
+        },
+        {
+          "name": "Irembo Support Portal",
+          "role": "Frontend Engineer",
+          "description": "Developed the web interface for the Irembo customer support portal, enabling users and service agents to manage requests, search for solutions, and access support documentation. Focused on accessibility, responsiveness, and integration with the knowledge base system to streamline citizen assistance and reduce service center load.",
+          "access": "https://support.irembo.gov.rw/"
+        }
+      ]
+    },
+    {
+      "company": "AEGIS CONSULT LTD",
+      "location": "Kigali",
+      "title": "Software Engineer (Consultant)",
+      "date": "January 2018 — January 2019",
+      "description": "Contributed to the development of multiple digital platforms focused on real estate data and national information systems. Worked on the initial phases of REPZ VI MPVs, building tools that improved property search through GIS integration, enhanced data visibility for government agencies, and enabled data-driven forecasting and decision-making. Additionally, contributed to the modernization of Rwandapedia, a national knowledge repository, enhancing user experience and accessibility for researchers, students, and policymakers.",
+      "projects": [
+        {
+          "name": "REPZ VI MPVs (Initial Phases)",
+          "role": "Frontend Engineer",
+          "description": "Developed early versions of tools for Rwanda’s real estate data platform, focusing on GIS-powered property search and dynamic data visualizations. Improved UX for users across public agencies and private stakeholders by enabling better access to spatial property data.",
+          "access": "Public"
+        },
+        {
+          "name": "Rwandapedia",
+          "role": "Frontend Engineer",
+          "description": "Contributed to UI enhancements and content structuring for Rwandapedia, Rwanda’s official digital archive. Helped improve discoverability and readability of historical and developmental content through thoughtful interface improvements and optimized content delivery.",
+          "access": "https://rwandapedia.rw/"
+        }
+      ]
+    },
+    {
+      "company": "TRANSAX LTD",
+      "location": "Kigali",
+      "title": "Backend Engineer (Consultant)",
+      "date": "January 2018 — January 2019",
+      "description": "Led backend engineering for high-impact digital platforms in the financial services and global health sectors. Designed and implemented secure, scalable backend architectures with seamless integration to international payment systems and user-facing applications. Focused on robust API design, third-party service integration, authentication workflows, and real-time data management to support thousands of users efficiently.",
+      "projects": [
+        {
+          "name": "IKOFI",
+          "role": "Backend Engineer",
+          "description": "Built the backend for a secure e-wallet platform with integrations to PayPal, Stripe, and Mobile Money, enabling domestic and cross-border financial transactions. Designed transaction workflows, implemented secure authentication, and supported integration with external financial APIs.",
+          "access": "Private"
+        },
+        {
+          "name": "WLGH 2019 App",
+          "role": "Backend Engineer",
+          "description": "Developed the backend and administrative dashboard for the Women Leaders in Global Health 2019 conference app hosted by the University of Global Health Equity (UGHE). Supported over 4,000 users with session management, real-time updates, and attendee engagement tools.",
+          "access": "https://ughe.org/"
+        }
+      ]
+    },
+    {
+      "company": "OnTime Services LTD",
+      "location": "Kigali",
+      "title": "Backend Engineer (Full-time)",
+      "date": "January 2017 — February 2018",
+      "description": "Led the development of cross-platform mobile applications in the transportation and financial services sectors. Designed and implemented backend architecture, rapid prototypes, and secure payment integrations to support scalable and user-centric platforms. Worked across the full development lifecycle, from feature planning and API design to deployment and performance optimization. Integrated major payment gateways including Stripe and PayPal to enable seamless in-app transactions.",
+      "projects": [
+        {
+          "name": "OnTime",
+          "role": "Full Stack Engineer",
+          "description": "Developed a ride-sharing mobile application similar to Uber or Lyft, focusing on real-time location tracking, driver-rider matching, and fare calculation. Built backend services, integrated payment APIs, and contributed to cross-platform app development for iOS and Android.",
+          "access": "Private"
+        },
+        {
+          "name": "yQueue",
+          "role": "Backend Engineer",
+          "description": "Created the backend architecture for a mobile banking queue management solution. Enabled secure customer check-ins, wait-time tracking, and real-time updates. Integrated digital payment options and supported scalability for financial institutions.",
+          "access": "Private"
+        }
+      ]
+    },
+    {
+      "company": "ASI-D",
+      "location": "Kigali",
+      "title": "Software Engineer (Full-time)",
+      "date": "January 2016 — February 2017",
+      "description": "Designed and developed a secure Java-based desktop application for visitor and attendance management, built specifically for security service providers managing access across multiple sites. The system included distributed database synchronization for multi-location deployments, QR code scanning for rapid check-ins, and automated ID/badge generation. Advanced data import/export capabilities were implemented to support seamless integration with external reporting and HR systems.",
+      "projects": [
+        {
+          "name": "Visitor & Attendance Management System",
+          "role": "Desktop Application Developer (Java)",
+          "description": "Developed for security provider companies to manage visitor and staff attendance across guarded facilities. Key features included real-time QR code-based check-ins, card generation, offline functionality with database sync, and secure role-based access control. Designed to improve operational efficiency, accuracy, and data visibility in high-security environments.",
+          "access": "Private"
+        }
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Science in computer engineering",
+      "institution": "University of Rwanda (UR-CST)",
+      "date": "January 2014 — January 2018"
+    },
+    {
+      "degree": "A level - Computer Electronics",
+      "institution": "Ecole Technique de Save (ET Save)",
+      "date": "January 2010 — January 2013"
+    }
+  ]
+}
